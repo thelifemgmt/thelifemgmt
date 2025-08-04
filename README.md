@@ -1,3 +1,3 @@
 ### Hello
 
-I am a product designer, front-end developer, and former major label recording artist. Currently leading a global UX Engineering team at IBM.
+I am an award winning product designer, front-end developer, and major-label recording artist, currently leading a global UX Engineering team at IBM.
